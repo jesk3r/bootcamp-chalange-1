@@ -10,7 +10,7 @@ A Refactor of a website in order to make it more accessible to users using seman
 
 ## Deployment
 
-[Website](https://jesk3r.github.io/bootcamp-chalange-1/)
+[Bootcamp-Challenge-1](https://jesk3r.github.io/bootcamp-chalange-1/)
 
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
