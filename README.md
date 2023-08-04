@@ -4,7 +4,9 @@
 
 A Refactor of a website in order to make it more accessible to users using semantic tags. 
 
-## Screenshot
+## Screenshots
+
+Screenshots of some sections from the page
 
   ![](/assets/Read-Me-Screenshots/Header-Screenshot.png)
 
