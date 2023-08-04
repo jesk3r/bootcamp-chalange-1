@@ -6,7 +6,7 @@ A Refactor of a website in order to make it more accessible to users using seman
 
 ## Screenshots
 
-Screenshots of some sections from the page
+Screenshots of some sections from the page.
 
   ![](/assets/Read-Me-Screenshots/Header-Screenshot.png)
 
@@ -21,5 +21,5 @@ Screenshots of some sections from the page
 
 ## Deployment
 
-[Bootcamp-Challenge-1](https://jesk3r.github.io/bootcamp-chalange-1/)
+website link: [Bootcamp-Challenge-1](https://jesk3r.github.io/bootcamp-chalange-1/)
 
