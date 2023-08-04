@@ -6,7 +6,7 @@ A Refactor of a website in order to make it more accessible to users using seman
 
 ## Screenshot
 
-  [asdfasdf](/assets/assets/Read-Me-Screenshots/Header-Screenshot.png)
+  [asdfasdf](/assets/Read-Me-Screenshots/Header-Screenshot.png)
 
   (/assets/Read-Me-Screenshots/Reputation-Management-Screenshot.png)
 
